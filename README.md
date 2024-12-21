@@ -6,7 +6,6 @@ Este projeto é uma ferramenta de Web Scraping desenvolvida em Python com interf
 ### Funcionalidades Principais
 - **Busca de Produtos**: Realiza pesquisas nos sites Mercado Livre e Amazon.
 - **Interface Gráfica**: Uma interface intuitiva que permite selecionar o site e visualizar os resultados.
-- **Exibição de Resultados**: Mostra links, descrições e preços dos produtos em uma nova janela.
 - **Apresentação do Programa**: Um frame inicial personalizado com o propósito do programa, opções de busca e botão de envio.
 
 ## Tecnologias Utilizadas
