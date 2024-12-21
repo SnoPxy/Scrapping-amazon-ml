@@ -29,13 +29,14 @@ Este projeto é uma ferramenta de Web Scraping desenvolvida em Python com interf
 
 ## Estrutura do Projeto
 ```
+
 projeto/
-|-- main.py                # Arquivo principal do programa.
-|-- scraping/
-|   |-- mercado_livre.py   # Script de scraping para o Mercado Livre.
-|   |-- amazon.py          # Script de scraping para a Amazon.
-|-- interface/
-    |-- app.py            
+|-- .vscode/               # Configurações do editor VS Code.
+|-- controllers/           # Contém os controladores do programa.
+|-- services/              # Lida com a lógica de scraping e requisições.
+|-- view/                  # Contém a interface gráfica do programa.
+|-- README.md              # Documentação do projeto.
+
 ```
 
 ## Personalização da Interface
