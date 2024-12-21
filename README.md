@@ -42,6 +42,8 @@ projeto/
 ## Personalização da Interface
 - Texto de apresentação inicial: "**Busque produtos nos sites**" .
 - Opções para selecionar o site de busca (Mercado Livre ou Amazon).
+- Quantidade de links que o usuario gostaria que o sistema capturasse
+- Preço maximo que o usuario quer pagar nos produtos
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias ou novas funcionalidades.
