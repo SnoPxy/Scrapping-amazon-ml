@@ -18,7 +18,7 @@ Este projeto é uma ferramenta de Web Scraping desenvolvida em Python com interf
    - Certifique-se de ter o Python instalado.
    - Instale as bibliotecas necessárias com o comando:
      ```bash
-     pip install requests selenium customtkinter
+     pip install selenium customtkinter
      ```
 
 2. **Execução do Programa**:
